@@ -58,7 +58,8 @@ app.use(
     origin: [
       "http://localhost:3001",
       "http://localhost:3000",
-      "https://spa-project-8c84e.firebaseapp.com/"
+      "https://spa-project-8c84e.firebaseapp.com/",
+      "https://spaback.herokuapp.com/"
     ]
   })
 );
